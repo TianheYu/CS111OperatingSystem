@@ -1,0 +1,9 @@
+git add --all
+git commit -m "blabla"
+git push origin somebranch/master
+//origin is the local file
+git branch somebranch
+git checkout somebranch/master
+commit to somebranch
+git merge somebranch
+git branch -D somebranch
