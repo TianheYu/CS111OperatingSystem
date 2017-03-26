@@ -16,3 +16,4 @@ git merge --squash
 
 after every change, get to the staging area. 
 move to the staging area using git status
+git status--------------git add--------------git commit
